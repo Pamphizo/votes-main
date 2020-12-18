@@ -13,6 +13,7 @@
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#team">Candidate</a></li>
                 <li><a href="#services">Analysis</a></li>
+                <li><a href="#result"> Result</a></li>
 
                 @if (Route::has('login'))
                         @auth
