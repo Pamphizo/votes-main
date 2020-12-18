@@ -19,7 +19,7 @@
                         <h2>About Project</h2>
                         <h3>Smart Election System Project.</h3>
                         <p> Now you can vote your favorite candidate anywhere and get the result easily </p>
-                        <h3> How you can do it
+                        <h3> How you can do your vote without motion
                           </h3>
 
                         <ul>
