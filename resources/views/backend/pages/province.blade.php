@@ -20,7 +20,7 @@
                 <h5 class="card-title text-uppercase p-3 bg-info text-white mb-0">
                     Province
                     <button class="btn btn-success btn-flat btn-sm add_survey" style="float: right">
-                        <i class="fa fa-plus"></i>Add Province</button>
+                        <i class="fa fa-plus"></i>Add your Province</button>
                 </h5>
 
                 <div class="p-3">
